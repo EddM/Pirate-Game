@@ -1,0 +1,25 @@
+
+  --------------------------------------------------------------------------------
+   Tile  |  Meaning
+  --------------------------------------------------------------------------------
+     S   |  Spawn point
+     #   |  Level exit
+         |
+     =   |  Solid ground tile
+     "   |  Ground tile with grass on top
+     ^   |  Bounce pad tile (jumps approx. 1.5x as high)
+     %   |  Fire tile (kills player)
+     ~   |  Water tile
+         |
+     T   |  Tree
+     t   |  Tree (backwards)
+         |
+     +   |  Life
+     o   |  Coin
+         |
+     m   |  Enemy (use multiple m on the same row to indicate the enemy's path)
+   --------------------------------------------------------------------------------
+   
+   
+  Notes:
+    - Player can jump up four tiles high.
